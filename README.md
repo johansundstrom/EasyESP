@@ -25,8 +25,8 @@ For Linux or Mac users, the recommended tool for ESP82xx/ESP32 is esptool.py
 
 ## Rules
 
-* https://www.letscontrolit.com/wiki/index.php/Tutorial_Rules
-* (Rules editor)[https://raw.githack.com/chromoxdor/EasyColorCode/main/colorcode.html]
+* Rules tutorial - https://www.letscontrolit.com/wiki/index.php/Tutorial_Rules
+* Rules editor - https://raw.githack.com/chromoxdor/EasyColorCode/main/colorcode.html
 
 ## Inspiration
 
