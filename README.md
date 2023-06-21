@@ -22,3 +22,21 @@ For Linux or Mac users, the recommended tool for ESP82xx/ESP32 is esptool.py
 ## ESPEasy GUI
 
 * (GUI)[https://www.letscontrolit.com/wiki/index.php/ESP_Easy_web_interface]
+
+## Rules
+
+* https://www.letscontrolit.com/wiki/index.php/Tutorial_Rules
+
+## Inspiration
+
+* https://www.letscontrolit.com/wiki/index.php/EasyNotifications
+* https://www.letscontrolit.com/wiki/index.php?title=SleepMode
+
+## Noteringar om ESP-Easy
+
+### Anslut och Flash'a
+
+* Ladda ned firmware från https://github.com/letscontrolit/ESPEasy/releases 
+* Anslut USB-till-TTL-konverterare satt till 3V3
+
+https://td-er.nl/ESPEasy/
