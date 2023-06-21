@@ -10,6 +10,8 @@
 
 ## Arbetsgång
 
+For Linux or Mac users, the recommended tool for ESP82xx/ESP32 is esptool.py
+
 1. Download [firmware as binary including flash tool](https://github.com/letscontrolit/ESPEasy/tree/mega/dist)
 2. [Connect the ESP to Windows PC Using](https://espeasy.readthedocs.io/en/latest/Reference/Flashing.html#flashing-software) either USB/UART of board or separate USB/TTL adapter
 3. Write firmware using flash tool (Note necessity for GPIO to be LOW to enter flashmode)
