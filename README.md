@@ -19,4 +19,6 @@ For Linux or Mac users, the recommended tool for ESP82xx/ESP32 is esptool.py
 5. Search for you routers WiFi and connect (if you have multiple AP they will all show up with the same SSID name multiple times)
 6. Reconnect to your WiFi and enter IP adress shown on previous screen
 
-## 
+## ESPEasy GUI
+
+* (GUI)[https://www.letscontrolit.com/wiki/index.php/ESP_Easy_web_interface]
